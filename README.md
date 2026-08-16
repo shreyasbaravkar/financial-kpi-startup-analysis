@@ -40,7 +40,7 @@ Four headline KPI numbers with color-coded conditional formatting (so a number t
 
 ## The dashboard
 
-![Dashboard](<img width="1851" height="696" alt="Screenshot 2026-08-16 140518" src="https://github.com/user-attachments/assets/3aede0ea-bc9a-4367-8d47-da16a38af026" />
+!<img width="1851" height="696" alt="Screenshot 2026-08-16 140518" src="https://github.com/user-attachments/assets/3aede0ea-bc9a-4367-8d47-da16a38af026" />
 )
 
 *(Live Excel dashboard showing: headline KPI cards for Revenue, Burn Rate, LTV:CAC Ratio, and Cash Runway with color-coded health indicators; a Revenue vs Expenses trend; Customer Growth over time; the LTV:CAC Ratio trend; and the Customer Retention by Cohort heatmap.)*
